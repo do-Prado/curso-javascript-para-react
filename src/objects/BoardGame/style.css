@@ -1,0 +1,6 @@
+.board-game {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    background-color: var(--color--pomb-and-power);
+}
